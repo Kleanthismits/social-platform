@@ -1,0 +1,60 @@
+### BACKEND ###
+backend/social-platform/.gitignore
+backend/social-platform/HELP.md
+backend/social-platform/target/
+backend/social-platform/!.mvn/wrapper/maven-wrapper.jar
+backend/social-platform/!**/src/main/**/target/
+backend/social-platform/!**/src/test/**/target/
+
+### STS ###
+backend/social-platform/.apt_generated
+backend/social-platform/.classpath
+backend/social-platform/.factorypath
+backend/social-platform/.project
+backend/social-platform/.settings
+backend/social-platform/.springBeans
+backend/social-platform/.sts4-cache
+
+### IntelliJ IDEA ###
+backend/social-platform.idea
+backend/social-platform*.iws
+backend/social-platform*.iml
+backend/social-platform*.ipr
+
+### NetBeans ###
+backend/social-platform/nbproject/private/
+backend/social-platform/nbbuild/
+backend/social-platform/dist/
+backend/social-platform/nbdist/
+backend/social-platform/.nb-gradle/
+backend/social-platform/build/
+backend/social-platform/!**/src/main/**/build/
+backend/social-platform/!**/src/test/**/build/
+
+### VS Code ###
+backend/social-platform/.vscode/
+
+### FRONTEND ###
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend.DS_Store
+frontend.env.local
+frontend.env.development.local
+frontend.env.test.local
+frontend.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/frontend
+frontend/.gitignore
